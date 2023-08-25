@@ -1,24 +1,8 @@
 INSERT INTO AppUser
-VALUES (1, "tungTD", "tung7681"),
-       (2, "phongDV", "phong57817"),
-       (3, "phongDL", "phong261426"),
-       (4, "binhTV", "binh5711"),
-       (5, "thanhHD", "thanh32331"),
-       (6, "quangPH", "quang747047"),
-       (7, "minhKL", "minh352203"),
-       (8, "longHD", "long287357"),
-       (9, "tungQL", "tung88081"),
-       (10, "anhVL", "anh52669"),
-       (11, "longTD", "long175711"),
-       (12, "thangTN", "thang3661"),
-       (13, "binhDB", "binh54504"),
-       (14, "thaiKT", "thai2284"),
-       (15, "tungTL", "tung17258"),
-       (16, "binhTH", "binh3457"),
-       (17, "longTN", "long0594"),
-       (18, "tungTV", "tung29053"),
-       (19, "thaiDD", "thai1071"),
-       (20, "thaiKV", "thai8442");
+VALUES (1, "anh123", "123456"),
+       (2, "husttest", "123456"),
+       (3, "ngocanh", "123456"),
+     
 
 INSERT INTO BikeType(id, bikeTypeName, monetaryValue, electricType, noOfSaddles, noOfPedals, noOfRearSeats, description,
                      bikeTypeImageUrl)
@@ -174,8 +158,8 @@ VALUES (1, "Normal", "Normal rates", "Normal", "Normal", "Normal"),
        (2, "24-hour pass", "200,000 VND for 24h", "Normal", "24h", "Normal");
 
 INSERT INTO CreditCard(cardCode, owner, dateExpired, cvvCode)
-VALUES ("ict_group3_2021", "Group 3", "2025-11-30", "244"),
-       ("ict_group3_2022", "Group 3", "2025-11-01", "244")
+VALUES ("ict_group1_2022", "Group 1", "2025-11-30", "244"),
+       ("ict_group1_2023", "Group 1", "2025-11-01", "244")
        ;
 
 SELECT * FROM CreditCard;
