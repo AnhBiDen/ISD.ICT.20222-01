@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60ecabbc-6151-4e5b-9dd0-c3d34ad3bb70" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ict/capstoneproject/controller/DockDetailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/ict/capstoneproject/views/css/dock-detail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/ict/capstoneproject/views/fxml/view-dock-detail.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/00370c4e-cda7-430b-b3cf-402968efdbc1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/00370c4e-cda7-430b-b3cf-402968efdbc1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/00370c4e-cda7-430b-b3cf-402968efdbc1/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/00370c4e-cda7-430b-b3cf-402968efdbc1/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ict/capstoneproject/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ict/capstoneproject/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ict/capstoneproject/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ict/capstoneproject/controller/DockController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ict/capstoneproject/controller/DockController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ict/capstoneproject/database/BikeDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ict/capstoneproject/database/BikeDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ict/capstoneproject/entity/bike/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ict/capstoneproject/entity/bike/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ict/capstoneproject/entity/bike/StandardBike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ict/capstoneproject/entity/bike/StandardBike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ict/capstoneproject/entity/bike/StandardEBike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ict/capstoneproject/entity/bike/StandardEBike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ict/capstoneproject/entity/bike/TwinsBike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ict/capstoneproject/entity/bike/TwinsBike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ict/capstoneproject/utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ict/capstoneproject/utils/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ict/capstoneproject/views/ConfigViews.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ict/capstoneproject/views/ConfigViews.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ict/capstoneproject/views/StartScreenHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ict/capstoneproject/views/StartScreenHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ict/capstoneproject/views/home/FXMLScreenHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ict/capstoneproject/views/home/FXMLScreenHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/ict/capstoneproject/views/fxml/dock-list.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/ict/capstoneproject/views/fxml/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/ict/capstoneproject/views/fxml/view-dock.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/ict/capstoneproject/views/fxml/view-dock.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2TuzmR7oxEFlPQtEWwnZBv5MTgN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Software-Engineering&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.119617224&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.3682266&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Semester 20222\ITSS\CapstoneProject\CapstoneProject\src\main\resources\com\ict\capstoneproject\views\fxml" />
+      <recent name="F:\Semester 20222\ITSS\CapstoneProject\CapstoneProject\src\main\resources\com\ict\capstoneproject\views" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.ict.capstoneproject.views" />
+      <recent name="com.ict.capstoneproject.bike" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ict.capstoneproject.views.home" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HomeController">
+    <configuration name="ConnectDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ict.capstoneproject.database.ConnectDB" />
+      <module name="CapstoneProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ict.capstoneproject.database.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ict.capstoneproject.HomeController" />
+      <module name="CapstoneProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ict.capstoneproject.ListDockController" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListDockController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ict.capstoneproject.ListDockController" />
+      <module name="CapstoneProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ict.capstoneproject.ListDockController" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HomeController" />
+        <item itemvalue="Application.ListDockController" />
+        <item itemvalue="Application.ConnectDB" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60ecabbc-6151-4e5b-9dd0-c3d34ad3bb70" name="Changes" comment="" />
+      <created>1691907914218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691907914218</updated>
+      <workItem from="1691907914872" duration="2271000" />
+      <workItem from="1692002777520" duration="8263000" />
+      <workItem from="1692013940830" duration="182000" />
+      <workItem from="1692026589933" duration="2475000" />
+      <workItem from="1692116928295" duration="1319000" />
+      <workItem from="1692172945038" duration="3011000" />
+      <workItem from="1692197241558" duration="8272000" />
+      <workItem from="1692235765864" duration="12472000" />
+      <workItem from="1692255084274" duration="5707000" />
+      <workItem from="1692323729251" duration="19493000" />
+      <workItem from="1692368775320" duration="21630000" />
+      <workItem from="1692710140591" duration="11222000" />
+      <workItem from="1692794631499" duration="1463000" />
+      <workItem from="1692796114563" duration="2018000" />
+      <workItem from="1692803466171" duration="1370000" />
+      <workItem from="1692871450233" duration="3006000" />
+      <workItem from="1692879284052" duration="10608000" />
+      <workItem from="1692937230351" duration="60000" />
+      <workItem from="1692937312249" duration="1278000" />
+      <workItem from="1692943752622" duration="5839000" />
+      <workItem from="1692949611210" duration="5024000" />
+      <workItem from="1692967557165" duration="5370000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

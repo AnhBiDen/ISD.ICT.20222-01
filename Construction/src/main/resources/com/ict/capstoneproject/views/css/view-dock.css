@@ -1,0 +1,67 @@
+.button {
+    -fx-background-radius: 0;
+    -fx-font-family: "Segoe UI";
+    -fx-font-weight: bold;
+    -fx-font-size: 15px;
+}
+
+.menu-button {
+    -fx-font-family: "Segoe UI";
+    -fx-background-radius: 0;
+    -fx-font-weight: bold;
+    -fx-font-size: 15px;
+}
+
+.button:hover {
+    -fx-font-family: "Segoe UI";
+    -fx-cursor: hand;
+    -fx-background-radius: 0;
+}
+
+.menu-button:hover {
+    -fx-font-family: "Segoe UI";
+    -fx-cursor: hand;
+}
+
+#ivFilterDock:hover{
+    -fx-cursor: hand;
+}
+
+#btnViewRent{
+    -fx-background-radius: 3;
+    -fx-background-color: green;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+    -fx-font-size: 15px;
+}
+
+#btnViewRent:hover {
+    -fx-background-color: #009900;
+    -fx-cursor: hand;
+}
+
+.text-field {
+    -fx-font-family: "Segoe UI";
+    -fx-font-size: 16px;
+}
+
+#btnLocation {
+    -fx-font-weight: bold;
+    -fx-font-size: 15px;
+}
+
+#ivEcoBikeLogo:hover {
+    -fx-cursor: hand;
+}
+
+#btnName {
+    -fx-font-weight: bold;
+    -fx-font-size: 15px;
+}
+
+.detail-button {
+    -fx-background-color: #2196F3; /* Màu nền */
+    -fx-text-fill: white; /* Màu chữ */
+    -fx-font-weight: bold; /* Độ đậm của chữ */
+    -fx-padding: 5 10; /* Khoảng cách giữa nội dung và viền */
+}
